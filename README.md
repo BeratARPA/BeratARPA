@@ -10,14 +10,14 @@
 
 ### Connect with me:
 
-[![twitter](./img/twitter-light.svg)](#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](#gh-dark-mode-only)
+[![twitter](./img/twitter-light.svg)](https://twitter.com/IBeratARPA#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/IBeratARPA#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/berat-arpa/#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/berat-arpa/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](#gh-light-mode-only)
-[![instagram](./img/instagram-dark.svg)](#gh-dark-mode-only)
+[![instagram](./img/instagram-light.svg)](https://instagram.com/beratarpa1#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://instagram.com/beratarpa1#gh-dark-mode-only)
 
 ### Languages and Tools:
 
