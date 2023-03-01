@@ -10,20 +10,14 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](#gh-dark-mode-only)
+[![twitter](./img/twitter-light.svg)](#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](#gh-dark-mode-only)
+[![instagram](./img/instagram-light.svg)](#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](#gh-dark-mode-only)
 
 ### Languages and Tools:
 
