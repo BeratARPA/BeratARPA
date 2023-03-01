@@ -48,13 +48,13 @@
 
 </details>
 
-[website]:
-[course]:
+[website]: a
+[course]: a
 [twitter]: https://twitter.com/IBeratARPA
-[youtube]:
+[youtube]: a
 [instagram]: https://instagram.com/beratarpa1
 [linkedin]: https://www.linkedin.com/in/berat-arpa
-[webdevplaylist]:
-[jsplaylist]:
-[cssplaylist]:
-[reactplaylist]:
+[webdevplaylist]: a
+[jsplaylist]: a
+[cssplaylist]: a
+[reactplaylist]: a
