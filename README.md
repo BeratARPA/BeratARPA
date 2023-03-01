@@ -18,8 +18,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](gh-light-mode-only)
-[![website](./img/globe-dark.svg)](gh-dark-mode-only)
+[![website](./img/globe-light.svg)](#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](gh-dark-mode-only)
