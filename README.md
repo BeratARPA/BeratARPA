@@ -115,7 +115,7 @@
 ---
 
 <img align="left" alt="Berat ARPA's GitHub Satats" src="https://github-readme-stats.vercel.app/api?username=BeratARPA18&show_icons=true&theme=radical" />
-
+<img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BeratARPA18&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
 [website]: a
 [course]: a
 [twitter]: https://twitter.com/IBeratARPA
