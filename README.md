@@ -21,18 +21,96 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="CSharp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="DotNetCore" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MSSQL" width="26px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="FileZilla" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Postman" width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+ <p align="left">
+    <a href="https://code.visualstudio.com/" target="_blank">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+        alt="Visual Studio Code"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://visualstudio.microsoft.com/" target="_blank">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"
+        alt="Visual Studio"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+        alt="html5"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+        alt="css3"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.w3schools.com/cs/" target="_blank">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+        alt="CSharp"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
+        alt="DotNetCore"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+      <img
+        src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
+        alt="mssql"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://filezilla-project.org/" target="_blank">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg"
+        alt="FileZilla"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://postman.com" target="_blank">
+      <img
+        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+        alt="postman"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+      <img
+        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+        alt="git"
+        width="40"
+        height="40"
+      />
+    </a>
+    <a href="https://github.com/" target="_blank">
+      <img
+        src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"
+        alt="GitHub"
+        width="40"
+        height="40"
+      />
+    </a>
+  </p>
 
 <br />
 <br />
