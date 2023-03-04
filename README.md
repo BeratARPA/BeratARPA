@@ -112,9 +112,6 @@
     </a>
   </p>
 
-<br />
-<br />
-
 ---
 
 <img align="left" alt="Berat ARPA's GitHub Satats" src="https://github-readme-stats.vercel.app/api?username=BeratARPA18&show_icons=true&theme=radical" />
