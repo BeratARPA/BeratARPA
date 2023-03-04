@@ -102,19 +102,19 @@
         height="40"
       />
     </a>
-     <a href="https://github.com/" target="_blank">
-      [<img
+ <a href="https://github.com/" target="_blank">
+      <img
         src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"
         alt="GitHub"
         width="40"
         height="40"
-      />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-      [<img
+      />
+      <img
         src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"
         alt="GitHub"
         width="40"
         height="40"
-      />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+      />
     </a>
   </p>
 
