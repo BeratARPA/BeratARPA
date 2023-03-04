@@ -38,7 +38,7 @@
 
 ---
 
-<img align="left" alt="Berat ARPA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BeratARPA18&show_icons=true&theme=gradient" />
+<img align="left" alt="Berat ARPA's GitHub Satats" src="https://github-readme-stats.vercel.app/api?username=BeratARPA18&show_icons=true&theme=gradient" />
 
 [website]: a
 [course]: a
