@@ -101,15 +101,7 @@
         width="40"
         height="40"
       />
-    </a>
- <a href="https://github.com/" target="_blank">
-      <img
-        src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"
-        alt="GitHub"
-        width="40"
-        height="40"
-      />
-    </a>
+    </a> 
   </p>
 
  [<img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"
