@@ -108,6 +108,7 @@
 
 <img align="left" alt="Berat ARPA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BeratARPA18&show_icons=true&theme=radical" />
 <img align="left" alt="Berat ARPA's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=BeratARPA18&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical"/>
+&nbsp;&nbsp;
 ![](https://komarev.com/ghpvc/?username=BeratARPA18&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
 
 [website]: a
