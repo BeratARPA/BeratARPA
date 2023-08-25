@@ -112,6 +112,7 @@
     </a> 
   </p>
 
+![snake gif](https://github.com/BeratARPA18/BeratARPA18/blob/output/github-contribution-grid-snake.gif)
 ---
 ![](https://komarev.com/ghpvc/?username=BeratARPA18&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
 <img align="left" alt="Berat ARPA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BeratARPA18&show_icons=true&theme=radical" />
