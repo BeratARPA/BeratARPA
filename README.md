@@ -1,130 +1,74 @@
-# Hi there, I'm Berat ARPA 👋 
+<img align="right" src="https://komarev.com/ghpvc/?username=BeratARPA18&color=000000&style=for-the-badge&label=PROFILE+VIEWS">
 
-## I'm a Developer!
+<br>
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 💬 Ask me about anything related to CSharp or SQL
-- 🥅 Goals: Learn more about software
-- ⚡ Fun fact: I love to coding
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Berat+ARPA!;&center=true&size=30">
+  </a>
+</h1>
 
-### Connect with me:
+<br>
 
-[![twitter](./img/twitter-light.svg)](https://twitter.com/IBeratARPA#gh-light-mode-only)
-[![twitter](./img/twitter-dark.svg)](https://twitter.com/IBeratARPA#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/berat-arpa/#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/berat-arpa/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![instagram](./img/instagram-light.svg)](https://instagram.com/beratarpa1#gh-light-mode-only)
-[![instagram](./img/instagram-dark.svg)](https://instagram.com/beratarpa1#gh-dark-mode-only)
+<p align="center">
+Hi, I'm Berat ARPA, Backend Developer and .NET Developer, Learner 👨‍💻 from Türkiye ᴛʀ
+<br>
+<br>
+🌱 I’m currently learning everything 🤣
+<br>
+👯 I’m looking to collaborate with other content creators
+<br>
+💬 Ask me about anything related to CSharp or SQL
+<br>
+🥅 Goals: Learn more about software
+<br>
+⚡ Fun fact: I love to coding
+<br>
+ <br>
+</p>
+<div align="center"> 
+  <a href = "https://twitter.com/IBeratARPA"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/berat-arpa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/beratarpa1" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:beratturkey1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-### Languages and Tools:
+<hr>
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,wordpress,cs,dotnet,firebase,mysql,rabbitmq,vscode,visualstudio,postman,ps,sketchup" /><br>
+  </a>
+</p>
 
- <p align="left">
-    <a href="https://code.visualstudio.com/" target="_blank">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-        alt="Visual Studio Code"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://visualstudio.microsoft.com/" target="_blank">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"
-        alt="Visual Studio"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="CSS"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-        alt="CSharp"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
-        alt="DotNetCore"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-      <img
-        src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-        alt="MSSQL"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://filezilla-project.org/" target="_blank">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg"
-        alt="FileZilla"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://postman.com" target="_blank">
-      <img
-        src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-        alt="Postman"
-        width="40"
-        height="40"
-      />
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-      <img
-        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-        alt="Git"
-        width="40"
-        height="40"
-      />
-    </a> 
-    <a href="https://firebase.google.com/" target="_blank">
-      <img
-        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-        alt="Firebase"
-        width="40"
-        height="40"
-      />
-    </a> 
-  </p>
+<hr>
 
-![snake gif](https://github.com/BeratARPA18/BeratARPA18/blob/output/github-contribution-grid-snake.gif)
----
-![](https://komarev.com/ghpvc/?username=BeratARPA18&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
-<img align="left" alt="Berat ARPA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BeratARPA18&show_icons=true&theme=radical" />
-<img align="left" alt="Berat ARPA's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=BeratARPA18&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical"/>
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/BeratARPA18/BeratARPA18/blob/output/github-contribution-grid-snake.svg">
+  <br>
+  <br>
+  <br>
+</div>
+  <hr>
 
-[website]: a
-[course]: a
-[twitter]: https://twitter.com/IBeratARPA
-[youtube]: a
-[instagram]: https://instagram.com/beratarpa1
-[linkedin]: https://www.linkedin.com/in/berat-arpa
-[webdevplaylist]: a
-[jsplaylist]: a
-[cssplaylist]: a
-[reactplaylist]: a
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=BeratARPA18&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=BeratARPA18&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeratARPA18&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+</p>
