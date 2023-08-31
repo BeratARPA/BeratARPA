@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=BeratARPA18&color=000000&style=for-the-badge&label=PROFILE+VIEWS">
+<img align="right" src="https://komarev.com/ghpvc/?username=BeratARPA&color=000000&style=for-the-badge&label=PROFILE+VIEWS">
 
 <br>
 
@@ -47,7 +47,7 @@ Hi, I'm Berat ARPA, Backend Developer and .NET Developer, Learner 👨‍💻 fr
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br>
-  <img alt="snake eating my contribution" src="https://github.com/BeratARPA18/BeratARPA18/blob/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contribution" src="https://github.com/BeratARPA/BeratARPA/blob/output/github-contribution-grid-snake.svg">
   <br>
   <br>
   <br>
@@ -59,16 +59,16 @@ Hi, I'm Berat ARPA, Backend Developer and .NET Developer, Learner 👨‍💻 fr
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=BeratARPA18&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=BeratARPA&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=BeratARPA18&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=BeratARPA&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeratARPA18&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeratARPA&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 </p>
