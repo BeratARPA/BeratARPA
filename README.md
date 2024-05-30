@@ -39,7 +39,7 @@ Hi, I'm Berat ARPA, Backend Developer and .NET Developer, Learner 👨‍💻 fr
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,cs,js,dotnet,mysql,mongodb,rabbitmq,firebase,wordpress,vscode,visualstudio,postman,ps,sketchup,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,cs,js,dotnet,mysql,mongodb,rabbitmq,firebase,wordpress,vscode,visualstudio,postman,ps,sketchup,git,github,bitbucket" /><br>
   </a>
 </p>
 
