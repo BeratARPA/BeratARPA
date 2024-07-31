@@ -29,9 +29,8 @@ Hi, I'm Berat ARPA, .NET Full Stack Developer, Learner 👨‍💻 from Türkiye
 <div align="center"> 
   <a href = "https://twitter.com/IBeratARPA"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/berat-arpa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.facebook.com/beratarpa18/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/beratarpa" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:beratturkey1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:beratarpa@hotmail.com"><img src="https://img.shields.io/badge/-mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <hr>
