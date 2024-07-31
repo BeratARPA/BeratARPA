@@ -11,14 +11,14 @@
 <br>
 
 <p align="center">
-Hi, I'm Berat ARPA, Backend Developer and .NET Developer, Learner 👨‍💻 from Türkiye ᴛʀ
+Hi, I'm Berat ARPA, .NET Full Stack Developer, Learner 👨‍💻 from Türkiye ᴛʀ
 <br>
 <br>
 🌱 I’m currently learning everything 🤣
 <br>
 👯 I’m looking to collaborate with other content creators
 <br>
-💬 Ask me about anything related to CSharp or SQL
+💬 Ask me about anything related to .NET
 <br>
 🥅 Goals: Learn more about software
 <br>
@@ -35,7 +35,7 @@ Hi, I'm Berat ARPA, Backend Developer and .NET Developer, Learner 👨‍💻 fr
 </div>
 
 <hr>
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<h2 align="center">🔥 Languages - Frameworks - Tools 🔥</h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
