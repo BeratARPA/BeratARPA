@@ -38,7 +38,7 @@ Hi, I'm Berat ARPA, .NET Full Stack Developer, Learner 👨‍💻 from Türkiye
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,cs,js,dotnet,mysql,mongodb,rabbitmq,firebase,wordpress,vscode,visualstudio,postman,ps,sketchup,git,github,bitbucket" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,cs,js,dotnet,mysql,mongodb,rabbitmq,firebase,wordpress,vscode,visualstudio,postman,ps,sketchup,git,github,bitbucket,dart,flutter" /><br>
   </a>
 </p>
 
