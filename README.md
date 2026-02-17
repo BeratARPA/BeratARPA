@@ -1,64 +1,94 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=BeratARPA&color=000000&style=for-the-badge&label=PROFILE+VIEWS">
-
-<br>
-
-<h1 align="center">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=220&section=header&text=Berat%20ARPA&fontSize=80&animation=fadeIn&fontAlignY=35&desc=.NET%20Full%20Stack%20Developer&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%"/>
+  
+  <br>
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Berat+ARPA!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Architecting+Scalable+Backends+🏗️;Crafting+Cross-Platform+Apps+📱;Exploring+Game+Development+🎮;Space+Integration+%26+Science+Enthusiast+🚀&center=true&width=500&height=50&color=00BFFF&vCenter=true&size=24&pause=1000">
   </a>
-</h1>
-
-<br>
-
-<p align="center">
-Hi, I'm Berat ARPA, .NET Full Stack Developer, Learner 👨‍💻 from Türkiye ᴛʀ
-<br>
-<br>
-🌱 I’m currently learning everything 🤣
-<br>
-👯 I’m looking to collaborate with other content creators
-<br>
-💬 Ask me about anything related to .NET
-<br>
-🥅 Goals: Learn more about software
-<br>
-⚡ Fun fact: I love to coding
-<br>
- <br>
-</p>
-<div align="center"> 
-  <a href = "https://twitter.com/IBeratARPA"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/berat-arpa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/beratarpa" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:beratarpa@hotmail.com"><img src="https://img.shields.io/badge/-mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<hr>
-<h2 align="center">🔥 Languages - Frameworks - Tools 🔥</h2>
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,cs,js,dotnet,mysql,mongodb,postgresql,rabbitmq,firebase,postman,ps,sketchup,git,github,bitbucket,dart,flutter,prometheus,grafana" /><br>
+<div align="center">
+  <a href="https://twitter.com/IBeratARPA" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/berat-arpa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/beratarpa" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:beratarpa@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email"/>
+  </a>
+   <a>
+ <img src="https://komarev.com/ghpvc/?username=BeratARPA&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
+  </a>
+</div>
 
-<hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=BeratARPA&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=BeratARPA&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeratARPA&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&hide=scss,css,html" />
-    </a>
-  </div>
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  Hi there! I'm <strong>Berat</strong>, a software developer from <strong>Türkiye 🇹🇷</strong> who loves turning caffeine into clean code.
+  <br><br>
+  I specialize in the <strong>.NET Ecosystem</strong> and <strong>Microservices Architecture</strong>. When I'm not architecting enterprise solutions, I dive deep into <strong>Game Development</strong> (Unity) or explore the mysteries of <strong>Space & Science</strong>. I believe in writing code that is as vast and structured as the universe itself.
+  <br><br>
+  🔭 <strong>Currently focusing on:</strong> High-performance Backend Systems & Language Design.
+  <br>
+  🌱 <strong>Always learning:</strong> Advanced System Architecture & English.
+  <br>
+  ⚡ <strong>Fun fact:</strong> I’m working on my own programming concepts and game mechanics in my free time!
 </p>
+
+<hr/>
+
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+
+<div align="center">
+  <p><strong>Languages & Core</strong></p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,dart,html,css&theme=dark" />
+  
+  <br>
+  
+  <p><strong>Frameworks & Libraries</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,flutter,react,bootstrap&theme=dark" />
+  
+  <br>
+  
+  <p><strong>Databases & Cloud</strong></p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,sqlite&theme=dark" />
+  
+  <br>
+  
+  <p><strong>DevOps, Tools & Architecture</strong></p>
+  <img src="https://skillicons.dev/icons?i=docker,rabbitmq,grafana,prometheus,postman,git,github,vscode,visualstudio&theme=dark" />
+</div>
+
+<br>
+<hr/>
+
+<h2 align="center">🔥 GitHub Analytics</h2>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=BeratARPA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats" />
+  </a>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=BeratARPA&theme=telegram-gradient&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+  
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeratARPA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,scss" height="180" alt="Top Languages" />
+  
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeratARPA&theme=dark&hide_border=true&area=true" width="90%" alt="Activity Graph" />
+</div>
+
+<br>
+
+<div align="center">  
+  <p><i>"Code is poetry written for machines."</i></p>
+</div>
