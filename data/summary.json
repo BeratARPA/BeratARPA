@@ -1,0 +1,186 @@
+{
+ "langs": [
+  [
+   "JavaScript",
+   46219588,
+   "#f1e05a"
+  ],
+  [
+   "C#",
+   15570636,
+   "#7355dd"
+  ],
+  [
+   "HTML",
+   9269467,
+   "#e34c26"
+  ],
+  [
+   "Dart",
+   7382271,
+   "#00B4AB"
+  ],
+  [
+   "CSS",
+   1432636,
+   "#663399"
+  ],
+  [
+   "TypeScript",
+   713053,
+   "#3178c6"
+  ],
+  [
+   "Python",
+   530767,
+   "#3572A5"
+  ],
+  [
+   "SCSS",
+   289057,
+   "#c6538c"
+  ],
+  [
+   "C++",
+   288915,
+   "#f34b7d"
+  ],
+  [
+   "CMake",
+   211011,
+   "#DA3434"
+  ],
+  [
+   "PowerShell",
+   207780,
+   "#012456"
+  ],
+  [
+   "PLpgSQL",
+   148611,
+   "#336790"
+  ],
+  [
+   "Kotlin",
+   143750,
+   "#A97BFF"
+  ],
+  [
+   "ShaderLab",
+   96874,
+   "#222c37"
+  ],
+  [
+   "Swift",
+   31213,
+   "#F05138"
+  ],
+  [
+   "Visual Basic .NET",
+   28849,
+   "#945db7"
+  ],
+  [
+   "HLSL",
+   19973,
+   "#aace60"
+  ],
+  [
+   "Wolfram Language",
+   15479,
+   "#dd1100"
+  ],
+  [
+   "C",
+   15405,
+   "#555555"
+  ],
+  [
+   "TSQL",
+   14916,
+   "#e38c00"
+  ],
+  [
+   "Dockerfile",
+   2869,
+   "#384d54"
+  ],
+  [
+   "Ruby",
+   2775,
+   "#701516"
+  ],
+  [
+   "ANTLR",
+   2390,
+   "#9DC3FF"
+  ],
+  [
+   "VBScript",
+   1782,
+   "#15dcdc"
+  ],
+  [
+   "Objective-C",
+   380,
+   "#438eff"
+  ],
+  [
+   "Shell",
+   353,
+   "#89e051"
+  ],
+  [
+   "ASP.NET",
+   104,
+   "#9400ff"
+  ]
+ ],
+ "stars": 159,
+ "repo_stars": {
+  "Dark-Light-Theme": 1,
+  "N-Tier-ASP.NET-Agriculture": 1,
+  "Restaurant-Management-With-Azure": 0,
+  "Touch-Screen-Keyboard": 1,
+  "BeratARPA": 1,
+  "Skills-Profile": 1,
+  "Localization-Application": 1,
+  "Management-Menu": 1,
+  "Idea-Soft-Integration": 1,
+  "Employee-Shift-Automation": 2,
+  "Weather-App-with-API": 1,
+  "Library-Management-App-with-WPF": 1,
+  "First-RabbitMQ-Project": 1,
+  "Todo-Application": 1,
+  "BarcodePOS": 7,
+  "ChatApp": 0,
+  "Remote-Desktop": 1,
+  "HizliLezzetAPI": 0,
+  "Deposit-Interest-Calculation": 1,
+  "Quick-Menu": 1,
+  "VB.NET-RentACarApp": 1,
+  "Multimedia-Format-Converter": 1,
+  "Microphone-Effect-Application": 1,
+  "SignIn": 1,
+  "SignUp": 1,
+  "husnuarpawebsite": 1,
+  "Service-Watchdog": 3,
+  "ARED-Architecture": 6,
+  "ARPA-Programming-Language": 2,
+  "HTML-Thermal-Printer": 79,
+  "ECommerceMicroservices": 1,
+  "social": 2,
+  "BeratARPAPortfolio": 1,
+  "Kingdom-Game": 1,
+  "Social-Backend": 0,
+  "EasyHR.DemoFormApp": 1,
+  "boiler_error_codes": 1,
+  "ARE": 32,
+  "fuel_tr": 0,
+  "procurement-radar-kit": 0,
+  "carkeep": 0,
+  "dilbaz": 0,
+  "isc_notes": 0,
+  "evorium": 0
+ }
+}

@@ -1,91 +1,48 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=220&section=header&text=Berat%20ARPA&fontSize=80&animation=fadeIn&fontAlignY=35&desc=.NET%20Full%20Stack%20Developer&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%"/>
-  
-  <br>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Architecting+Scalable+Backends+🏗️;Crafting+Cross-Platform+Apps+📱;Exploring+Game+Development+🎮;Space+Integration+%26+Science+Enthusiast+🚀&center=true&width=500&height=50&color=00BFFF&vCenter=true&size=24&pause=1000">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/berat-arpa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/beratarpa" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:beratarpa@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email"/>
-  </a>
-   <a>
- <img src="https://komarev.com/ghpvc/?username=BeratARPA&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
-  </a>
-</div>
-
-<br>
-
-<h2 align="center">👨‍💻 About Me</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Berat ARPA: .NET and Flutter developer. POS, receipt printing and integrations." src="assets/header-light.svg" width="100%">
+</picture>
 
 <p align="center">
-  Hi there! I'm <strong>Berat</strong>, a software developer from <strong>Türkiye 🇹🇷</strong> who loves turning caffeine into clean code.
-  <br><br>
-  I specialize in the <strong>.NET Ecosystem</strong> and <strong>Microservices Architecture</strong>. When I'm not architecting enterprise solutions, I dive deep into <strong>Game Development</strong> (Unity) or explore the mysteries of <strong>Space & Science</strong>. I believe in writing code that is as vast and structured as the universe itself.
-  <br><br>
-  🔭 <strong>Currently focusing on:</strong> High-performance Backend Systems & Language Design.
-  <br>
-  🌱 <strong>Always learning:</strong> Advanced System Architecture & English.
-  <br>
-  ⚡ <strong>Fun fact:</strong> I’m working on my own programming concepts and game mechanics in my free time!
+  <a href="https://www.nuget.org/packages/PrintHTML.Core"><img alt="PrintHTML.Core downloads" src="https://img.shields.io/nuget/dt/PrintHTML.Core?style=for-the-badge&logo=nuget&label=PrintHTML.Core&color=7355dd"></a>
+  <a href="https://www.nuget.org/packages/ARE.Core"><img alt="ARE.Core on NuGet" src="https://img.shields.io/nuget/v/ARE.Core?style=for-the-badge&logo=nuget&label=ARE.Core&color=22d3ee"></a>
+  <a href="https://pub.dev/packages/are_engine_core"><img alt="are_engine_core pub points" src="https://img.shields.io/pub/points/are_engine_core?style=for-the-badge&logo=dart&label=pub%20points&color=00B4AB"></a>
+  <a href="https://beratarpa.com"><img alt="beratarpa.com" src="https://img.shields.io/badge/beratarpa.com-portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/berat-arpa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-berat--arpa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<hr/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img alt="Package downloads, stars, packages, Flutter apps and contributions" src="assets/stats-light.svg" width="100%">
+</picture>
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+### Things I've built
 
-<div align="center">
-  <p><strong>Languages & Core</strong></p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,dart,html,css&theme=dark" />
-  
-  <br>
-  
-  <p><strong>Frameworks & Libraries</strong></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,flutter,react,bootstrap&theme=dark" />
-  
-  <br>
-  
-  <p><strong>Databases & Cloud</strong></p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,sqlite&theme=dark" />
-  
-  <br>
-  
-  <p><strong>DevOps, Tools & Architecture</strong></p>
-  <img src="https://skillicons.dev/icons?i=docker,rabbitmq,grafana,prometheus,postman,git,github,vscode,visualstudio&theme=dark" />
-</div>
+<p align="center">
+  <a href="https://github.com/BeratARPA/HTML-Thermal-Printer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-printer-dark.svg"><img alt="HTML-Thermal-Printer" src="assets/card-printer-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/BeratARPA/ARE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-are-dark.svg"><img alt="ARE rule engine" src="assets/card-are-light.svg" width="49%"></picture></a>
+</p>
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.liwasoft.pentegrasyonkurye"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-courier-dark.svg"><img alt="Pentegrasyon Kurye" src="assets/card-courier-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/BeratARPA/procurement-radar-kit"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-radar-dark.svg"><img alt="Procurement Radar" src="assets/card-radar-light.svg" width="49%"></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/BeratARPA/fuel_tr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-fuel-dark.svg"><img alt="YakıtCep" src="assets/card-fuel-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/BeratARPA/boiler_error_codes"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-boiler-dark.svg"><img alt="KombiKod" src="assets/card-boiler-light.svg" width="49%"></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/BeratARPA/dilbaz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-lang-dark.svg"><img alt="Dilbaz" src="assets/card-lang-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/BeratARPA/carkeep"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-car-dark.svg"><img alt="CarKeep" src="assets/card-car-light.svg" width="49%"></picture></a>
+</p>
 
-<br>
-<hr/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <img alt="Contributions in the last year" src="assets/activity-light.svg" width="100%">
+</picture>
 
-<h2 align="center">🔥 GitHub Analytics</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-dark.svg">
+  <img alt="Repositories by main language and toolbox" src="assets/toolbox-light.svg" width="100%">
+</picture>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=BeratARPA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats" />
-  </a>
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=BeratARPA&theme=telegram-gradient&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-  
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeratARPA&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,scss" height="180" alt="Top Languages" />
-  
-  <br><br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeratARPA&theme=dark&hide_border=true&area=true" width="90%" alt="Activity Graph" />
-</div>
-
-<br>
-
-<div align="center">  
-  <p><i>"Code is poetry written for machines."</i></p>
-</div>
+<p align="center"><sub>Every chart above is drawn from my own data by a GitHub Action in this repo, refreshed daily.</sub></p>
