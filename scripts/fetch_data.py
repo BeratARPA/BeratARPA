@@ -46,12 +46,6 @@ def step(label, fn):
         print("FAIL", label, e)
 
 
-def contributions():
-    save("contrib.json", graphql(
-        f'{{ user(login:"{LOGIN}") {{ contributionsCollection {{ contributionCalendar {{ totalContributions '
-        f'weeks {{ contributionDays {{ date contributionCount }} }} }} restrictedContributionsCount }} }} }}'))
-
-
 def stars():
     total, cursor, per_repo = 0, None, {}
     while True:
@@ -67,6 +61,7 @@ def stars():
     summary = load("summary.json", {})
     summary["stars"] = total
     summary["repo_stars"] = per_repo
+    summary["public_repos"] = len(per_repo)
     save("summary.json", summary)
 
 
@@ -88,6 +83,5 @@ def packages():
     save("packages.json", pkgs)
 
 
-step("contributions", contributions)
 step("stars", stars)
 step("packages", packages)

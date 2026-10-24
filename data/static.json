@@ -1,37 +1,7 @@
 {
+ "companies": 5,
+ "live_products": 6,
+ "packages": 4,
  "flutter_apps": 12,
- "private_share": 87,
- "languages": [
-  [
-   "C#",
-   33,
-   "#7355dd"
-  ],
-  [
-   "Dart",
-   12,
-   "#00B4AB"
-  ],
-  [
-   "HTML / CSS",
-   7,
-   "#e34c26"
-  ],
-  [
-   "JavaScript",
-   3,
-   "#f1e05a"
-  ],
-  [
-   "TypeScript",
-   1,
-   "#3178c6"
-  ],
-  [
-   "VB.NET",
-   1,
-   "#945db7"
-  ]
- ],
- "_note": "Counted by hand on 2026-10-24 across public and private repos; the Actions token cannot see private repos. Update when you ship a new app."
+ "_note": "Hand-kept numbers the Actions token cannot count. Update when they change."
 }

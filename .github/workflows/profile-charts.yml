@@ -1,4 +1,4 @@
-name: Refresh profile charts
+name: Refresh profile
 
 on:
   schedule:
@@ -9,6 +9,7 @@ on:
     paths:
       - "scripts/**"
       - "data/static.json"
+      - "fonts/**"
       - ".github/workflows/profile-charts.yml"
 
 permissions:
@@ -37,7 +38,7 @@ jobs:
       - name: Draw charts
         env:
           PROFILE_ROOT: .
-        run: python scripts/build_visual.py
+        run: python scripts/build_profile.py
 
       - name: Commit if anything changed
         run: |
@@ -47,6 +48,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes."
           else
-            git commit -m "chore: refresh profile charts"
+            git commit -m "chore: refresh profile slip"
             git push
           fi

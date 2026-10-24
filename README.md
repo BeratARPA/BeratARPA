@@ -1,48 +1,34 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Berat ARPA: .NET and Flutter developer. POS, receipt printing and integrations." src="assets/header-light.svg" width="100%">
-</picture>
+<p align="right"><sub><b>English</b> · <a href="README.tr.md">Türkçe</a></sub></p>
 
-<p align="center">
-  <a href="https://www.nuget.org/packages/PrintHTML.Core"><img alt="PrintHTML.Core downloads" src="https://img.shields.io/nuget/dt/PrintHTML.Core?style=for-the-badge&logo=nuget&label=PrintHTML.Core&color=7355dd"></a>
-  <a href="https://www.nuget.org/packages/ARE.Core"><img alt="ARE.Core on NuGet" src="https://img.shields.io/nuget/v/ARE.Core?style=for-the-badge&logo=nuget&label=ARE.Core&color=22d3ee"></a>
-  <a href="https://pub.dev/packages/are_engine_core"><img alt="are_engine_core pub points" src="https://img.shields.io/pub/points/are_engine_core?style=for-the-badge&logo=dart&label=pub%20points&color=00B4AB"></a>
-  <a href="https://beratarpa.com"><img alt="beratarpa.com" src="https://img.shields.io/badge/beratarpa.com-portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/berat-arpa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-berat--arpa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://beratarpa.com/?lang=en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-en-dark.svg"><img alt="Berat ARPA. End-to-end software development for businesses." src="assets/hero-en-light.svg" width="100%"></picture></a>
+
+<a href="https://github.com/BeratARPA/HTML-Thermal-Printer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/summary-en-dark.svg"><img alt="Everything about me on one slip of paper" src="assets/summary-en-light.svg" width="100%"></picture></a>
+
+<a href="https://beratarpa.com/?lang=en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/services-en-dark.svg"><img alt="What I do" src="assets/services-en-light.svg" width="100%"></picture></a>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-en-dark.svg"><img alt="Work that runs in real businesses" src="assets/work-en-light.svg" width="100%"></picture>
+
+<p>
+  <a href="https://www.tek-cozum.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-pos-en-dark.svg"><img alt="pos" src="assets/work-pos-en-light.svg" width="49%"></picture></a>
+  <a href="https://beratarpa.com/#isler"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-fiscal-en-dark.svg"><img alt="fiscal" src="assets/work-fiscal-en-light.svg" width="49%"></picture></a>
+</p>
+<p>
+  <a href="https://www.sefimqr.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-qr-en-dark.svg"><img alt="qr" src="assets/work-qr-en-light.svg" width="49%"></picture></a>
+  <a href="https://pentegrasyon.net/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-orders-en-dark.svg"><img alt="orders" src="assets/work-orders-en-light.svg" width="49%"></picture></a>
+</p>
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.liwasoft.pentegrasyonkurye"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-courier-en-dark.svg"><img alt="courier" src="assets/work-courier-en-light.svg" width="49%"></picture></a>
+  <a href="https://easyhr.com.tr/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-hr-en-dark.svg"><img alt="hr" src="assets/work-hr-en-light.svg" width="49%"></picture></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="Package downloads, stars, packages, Flutter apps and contributions" src="assets/stats-light.svg" width="100%">
-</picture>
+<a href="https://github.com/BeratARPA/ARE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/engine-en-dark.svg"><img alt="ARE: one engine, three ecosystems" src="assets/engine-en-light.svg" width="100%"></picture></a>
 
-### Things I've built
+<p align="center"><a href="https://www.nuget.org/packages/ARE.Core"><img alt="NuGet" src="https://img.shields.io/nuget/v/ARE.Core?style=flat-square&label=NuGet&color=b05cff"></a> <a href="https://www.npmjs.com/package/are-engine-core"><img alt="npm" src="https://img.shields.io/npm/v/are-engine-core?style=flat-square&label=npm&color=4f7cff"></a> <a href="https://pub.dev/packages/are_engine_core"><img alt="pub.dev" src="https://img.shields.io/pub/v/are_engine_core?style=flat-square&label=pub.dev&color=4f7cff"></a> <a href="https://are-playground.netlify.app"><img alt="playground" src="https://img.shields.io/badge/playground-try%20it-ff9a3c?style=flat-square"></a></p>
 
-<p align="center">
-  <a href="https://github.com/BeratARPA/HTML-Thermal-Printer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-printer-dark.svg"><img alt="HTML-Thermal-Printer" src="assets/card-printer-light.svg" width="49%"></picture></a>
-  <a href="https://github.com/BeratARPA/ARE"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-are-dark.svg"><img alt="ARE rule engine" src="assets/card-are-light.svg" width="49%"></picture></a>
-</p>
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.liwasoft.pentegrasyonkurye"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-courier-dark.svg"><img alt="Pentegrasyon Kurye" src="assets/card-courier-light.svg" width="49%"></picture></a>
-  <a href="https://github.com/BeratARPA/procurement-radar-kit"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-radar-dark.svg"><img alt="Procurement Radar" src="assets/card-radar-light.svg" width="49%"></picture></a>
-</p>
-<p align="center">
-  <a href="https://github.com/BeratARPA/fuel_tr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-fuel-dark.svg"><img alt="YakıtCep" src="assets/card-fuel-light.svg" width="49%"></picture></a>
-  <a href="https://github.com/BeratARPA/boiler_error_codes"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-boiler-dark.svg"><img alt="KombiKod" src="assets/card-boiler-light.svg" width="49%"></picture></a>
-</p>
-<p align="center">
-  <a href="https://github.com/BeratARPA/dilbaz"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-lang-dark.svg"><img alt="Dilbaz" src="assets/card-lang-light.svg" width="49%"></picture></a>
-  <a href="https://github.com/BeratARPA/carkeep"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-car-dark.svg"><img alt="CarKeep" src="assets/card-car-light.svg" width="49%"></picture></a>
-</p>
+<a href="https://github.com/BeratARPA/HTML-Thermal-Printer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/printer-en-dark.svg"><img alt="HTML-Thermal-Printer" src="assets/printer-en-light.svg" width="100%"></picture></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img alt="Contributions in the last year" src="assets/activity-light.svg" width="100%">
-</picture>
+<p align="center"><sub>Side projects: <a href="https://github.com/BeratARPA/fuel_tr">YakıtCep</a> · <a href="https://github.com/BeratARPA/boiler_error_codes">KombiKod</a> · <a href="https://github.com/BeratARPA/procurement-radar-kit">Procurement Radar</a> · <a href="https://github.com/BeratARPA/carkeep">CarKeep</a> · <a href="https://github.com/BeratARPA/dilbaz">Dilbaz</a></sub></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-dark.svg">
-  <img alt="Repositories by main language and toolbox" src="assets/toolbox-light.svg" width="100%">
-</picture>
+<a href="https://beratarpa.com/?lang=en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cta-en-dark.svg"><img alt="Let's talk about your project" src="assets/cta-en-light.svg" width="100%"></picture></a>
 
-<p align="center"><sub>Every chart above is drawn from my own data by a GitHub Action in this repo, refreshed daily.</sub></p>
+<p align="center"><sub><a href="https://beratarpa.com/?lang=en">beratarpa.com</a> · <a href="mailto:beratarpa@hotmail.com">beratarpa@hotmail.com</a> · <a href="https://www.linkedin.com/in/berat-arpa/">LinkedIn</a> · <a href="https://beratarpa.com/Resources/Berat_Arpa_FullStackDeveloper_EN_CV.pdf">CV</a></sub></p>
