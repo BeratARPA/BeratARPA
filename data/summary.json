@@ -136,11 +136,11 @@
    "#9400ff"
   ]
  ],
- "stars": 159,
+ "stars": 169,
  "repo_stars": {
   "Dark-Light-Theme": 1,
   "N-Tier-ASP.NET-Agriculture": 1,
-  "Restaurant-Management-With-Azure": 0,
+  "Restaurant-Management-With-Azure": 1,
   "Touch-Screen-Keyboard": 1,
   "BeratARPA": 1,
   "Skills-Profile": 1,
@@ -153,9 +153,9 @@
   "First-RabbitMQ-Project": 1,
   "Todo-Application": 1,
   "BarcodePOS": 7,
-  "ChatApp": 0,
+  "ChatApp": 1,
   "Remote-Desktop": 1,
-  "HizliLezzetAPI": 0,
+  "HizliLezzetAPI": 1,
   "Deposit-Interest-Calculation": 1,
   "Quick-Menu": 1,
   "VB.NET-RentACarApp": 1,
@@ -172,16 +172,16 @@
   "social": 2,
   "BeratARPAPortfolio": 1,
   "Kingdom-Game": 1,
-  "Social-Backend": 0,
+  "Social-Backend": 1,
   "EasyHR.DemoFormApp": 1,
   "boiler_error_codes": 1,
   "ARE": 32,
-  "fuel_tr": 0,
-  "procurement-radar-kit": 0,
-  "carkeep": 0,
-  "dilbaz": 0,
-  "isc_notes": 0,
-  "evorium": 0
+  "fuel_tr": 1,
+  "procurement-radar-kit": 1,
+  "carkeep": 1,
+  "dilbaz": 1,
+  "isc_notes": 1,
+  "evorium": 1
  },
  "public_repos": 44
 }
